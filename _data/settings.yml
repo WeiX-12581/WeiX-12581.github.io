@@ -2,7 +2,7 @@
 # General Site Settings
 
 menu:
-- {name: 'WeiXxx', url: ''}
+- {name: 'WeiXxx', url: 'WeiX，here!'}
 - {name: 'Blog',     url: 'blog'}
 - {name: 'About',    url: 'about'}
 - {name: 'Contact',  url: 'contact'}
@@ -11,7 +11,7 @@ menu:
 # Projects Section
 
 projects:
-- {name: 'Me',   url: 'proj-1'}
+- {name: 'WeiX',   url: 'proj-1'}
 - {name: 'Half Marathon',   url: 'proj-2'}
 - {name: '殺生丸', url: 'proj-3'}
 - {name: 'alcohol',  url: 'proj-4'}
