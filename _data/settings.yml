@@ -2,7 +2,7 @@
 # General Site Settings
 
 menu:
-- {name: 'WeiXxx', url: 'WeiX，here!'}
+- {name: 'WeiXxx', url: ''}
 - {name: 'Blog',     url: 'blog'}
 - {name: 'About',    url: 'about'}
 - {name: 'Contact',  url: 'contact'}
